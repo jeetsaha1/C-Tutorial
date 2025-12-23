@@ -45,37 +45,6 @@ It is designed for **beginners to intermediate learners** who want to master C++
 - STL (Vectors, Maps, Iterators)
 - Exception Handling
 
----
-
-## 📁 Repository Structure
-
-C++-CodeWithHarry/
-│
-├── 01_Basics/
-│ ├── hello_world.cpp
-│ ├── variables.cpp
-│
-├── 02_Control_Structures/
-│ ├── if_else.cpp
-│ ├── loops.cpp
-│
-├── 03_Functions_Arrays/
-│ ├── functions.cpp
-│ ├── arrays.cpp
-│
-├── 04_OOP/
-│ ├── classes_objects.cpp
-│ ├── inheritance.cpp
-│ ├── polymorphism.cpp
-│
-├── 05_STL/
-│ ├── vectors.cpp
-│ ├── maps.cpp
-│
-└── README.md
-
-yaml
-Copy code
 
 ---
 
@@ -124,19 +93,6 @@ This project is licensed under the MIT License – free to use, modify, and shar
 Special thanks to CodeWithHarry for making programming easy and accessible to everyone.
 
 Happy Coding! 💻🔥
-
-yaml
-Copy code
-
----
-
-If you want, I can also:
-- Customize it **for your college project**
-- Convert it into a **5-mark practical submission format**
-- Add **chapter-wise theory notes**
-- Make a **professional GitHub profile README** linked to this
-
-Just tell me 👍
 
 
 
